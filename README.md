@@ -1,18 +1,21 @@
 # Face_mask-detection
-Face Mask Detection System
+Face Mask Detection System 
 Introduction
 This project implements a neural network-based system to detect whether a person is wearing a face mask. It leverages image preprocessing and classification techniques to distinguish between two classes:
 
 With Mask
 Without Mask
+
 Features
 Dataset Preparation: Image resizing, labeling, and conversion to a unified format.
 Neural Network: A custom-built model for accurate classification.
 Predictive System: Real-time or batch prediction capabilities for processed images.
+
 Prerequisites
 Python 3.x
 Libraries: TensorFlow, NumPy, OpenCV, Matplotlib, etc. (full requirements provided in the requirements.txt)
 Installation
+
 Clone this repository:
 bash
 Copy code
