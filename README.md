@@ -1,10 +1,10 @@
-# Face_mask-detection
-Face Mask Detection System 
+# Helmet-detection
+Helmet Detection System 
 Introduction
 This project implements a neural network-based system to detect whether a person is wearing a face mask. It leverages image preprocessing and classification techniques to distinguish between two classes:
 
-With Mask
-Without Mask
+With helmet
+Without helmet
 
 Features
 Dataset Preparation: Image resizing, labeling, and conversion to a unified format.
@@ -37,7 +37,6 @@ python predict.py --image_path /path/to/image.jpg
 Results
 
 The trained model achieves high accuracy in detecting face masks, making it suitable for real-world applications like security systems and healthcare monitoring.
-
 
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
